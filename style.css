@@ -1,0 +1,29 @@
+.listado{
+	color: grey;
+	font-style: bold;
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000 } 
+.img_nav{
+	width: 50%;
+}
+
+.col-md-12{
+	margin-top: 120px;
+}
+
+.simbolos{
+	font-size: 800%;
+	text-align: center;
+	color: #007eff73;
+}
+
+.sonrisa{
+	width: 120%;
+}
