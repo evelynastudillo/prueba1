@@ -1,8 +1,26 @@
-.listado{
-	color: grey;
-	font-style: bold;
+.somos{
+	text-align: center;
+	color: #1785ca;
 }
 
+.objetivo{
+	text-align: center;
+	color: #1785ca;
+}
+
+.nav{
+	
+}
+
+
+.listado{
+	color: grey;
+	
+}
+
+.text-uppercase mb-4{
+	color: black;
+}
 .navbar {
    background-color: transparent;
    background: transparent;
@@ -11,7 +29,7 @@
 
 .navbar li { color: #000 } 
 .img_nav{
-	width: 50%;
+	width: 70%;
 }
 
 .col-md-12{
@@ -25,6 +43,6 @@
 }
 
 .sonrisa{
-	width: 120%;
+	width: 80%
 }
 
