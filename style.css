@@ -12,12 +12,22 @@
 	
 }
 
-
+.slide-carousel{
+	margin-top: 150px
+}
 .listado{
 	color: grey;
 	
 }
+.texto{
+	color: black;
+}
 
+.avisos{
+	background-color: transparent; 
+	margin-top: 50px; 
+	margin-bottom: 50px;
+}
 .text-uppercase mb-4{
 	color: black;
 }
